@@ -1,0 +1,13 @@
+1.Lancer Back.bat et laisser faire
+2.Sur votre autre pc ou téléphone, ouvrir une invite de commande OU termux sur android
+3.Marquer telnet IPLOCALE 8800 
+(en gros remplacez IPLOCALE par l'ip locale du pc, 
+allez voir dans le dossier prive il y a un fichier texte ConfIp.txt qui a toute les infos ipconfig)
+par contre, si vous relancez le fichier back.bat sur un autre pc, les anciennes infos seront supprimés
+(mots de passe DUMP et infos d'IPCONFIG)
+pour tester, vous pouvez donc faire la commande "dir" sur votre invite de commande pour voir tout les fichier du pc infecté
+
+[Vous pouvez mettre ce fichier texte et Changelog.txt autre pars, genre dans "trucs inutile et privé" (juste après le dossier privé)
+----------------------------------------------------
+|©MiR, BAckd00r Project - 2020 - discord.gg/R3xDYcM|
+----------------------------------------------------

