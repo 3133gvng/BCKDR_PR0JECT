@@ -16,8 +16,7 @@ Une BACKDOOR déja faite, juste a la mettre dans une clé usb pour l'utiliser et
 
 **Se copie dans le système32 et crée une clé du registre pour s'autolancer**
 
-[Link](url) and ![Image](src)
-```
+[Serveur discord](https://discord.gg/nT7nbd9cRV) et [Téléchargement](https://github.com/3133gvng/BCKDR_PR0JECT/releases)
 
 Pour un support, des idées ou autre, venez sur le serveur discord !
 https://discord.gg/nT7nbd9cRV
