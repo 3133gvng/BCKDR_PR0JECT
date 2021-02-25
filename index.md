@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## BAckD00r Pr0ject 
 
-You can use the [editor on GitHub](https://github.com/3133gvng/BCKDR_PR0JECT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Une BACKDOOR déja faite, juste a la mettre dans une clé usb pour l'utiliser et gagner du temps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Fonctionnalités :
 
-### Markdown
+**Grabbe les mots de passe et l'ip locale de l'utilisateur**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Ouvre tout les ports du pc infecté**
 
-```markdown
-Syntax highlighted code block
+**Vide le cache dns pour que le pc infecté ait une meilleur connection**
 
-# Header 1
-## Header 2
-### Header 3
+**Prends les informations systèmes du pc infecté pour savoir quels sont les composants**
 
-- Bulleted
-- List
+**Se lance automatiquement en administrateur** (pas besoin de faire clique droit > lancer en administateur)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Se copie dans le système32 et crée une clé du registre pour s'autolancer**
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3133gvng/BCKDR_PR0JECT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pour un support, des idées ou autre, venez sur le serveur discord !
+https://discord.gg/nT7nbd9cRV
